@@ -1,0 +1,38 @@
+.tf-work-carousel .flex-direction-nav {
+  *height: 0;
+}
+
+.work-carousel-head {
+  position: relative;
+}
+
+.work-carousel-head a {
+  width: 28px;
+  height: 28px;
+  display: block;
+  cursor: pointer;
+  background: transparent url(../images/arrow_bttom_slide.png) no-repeat 0 0;
+  position: absolute;
+  top: 0px;
+  margin:-36px 0 0 0;
+  right: 0px;
+  z-index: 1;
+  cursor: pointer;
+  text-indent: -9999px;
+}
+
+.work-carousel-head .next {
+  background-position: -30px 0;
+}
+
+.work-carousel-head .prev {
+  margin-right: 30px;
+}
+
+.work-carousel li {
+  display: block;
+  float: left;
+  position: relative;
+  background: #fff;
+  margin:0 0px 0 0px !important;
+}

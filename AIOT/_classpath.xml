@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Desktop/apache-tomcat-9.0.0.M15/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Desktop/apache-tomcat-9.0.0.M15/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Desktop/apache-tomcat-9.0.0.M15/lib/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/json-simple-1.1.1.jar" sourcepath="WebContent/WEB-INF/lib"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/okhttp-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/json-20170516.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/neelparikh/Downloads/commons-beanutils-1.8.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
